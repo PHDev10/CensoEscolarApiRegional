@@ -8,7 +8,7 @@ import pandas as pd
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 CSV_PATH = (
-    BASE_DIR / "datasets" / "dados_censo_escolar" / "Tabela_Matricula_2025_V2.csv"
+    BASE_DIR / "datasets" / "dados_censo_escolar" / "microdados_censo_escolar_2025_v2" / "dados" / "Tabela_Matricula_2025_V2.csv"
 )
 DB_PATH = BASE_DIR / "datasets" / "censo_escolar.db"
 

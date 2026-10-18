@@ -1,3 +1,4 @@
 dados_censo_escolar/
 __pycache__/
 censo_escolar.db
+venv/
